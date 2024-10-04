@@ -1,6 +1,6 @@
 # Historical cryptographic algorithms
 
-Data security course (4th year, first semester)    
+Data security course (4th year, first semester).    
 A number of historical cryptographic algorithms written in C/C++.
 
 # Vigenère Cipher - MPI & OpenCL
